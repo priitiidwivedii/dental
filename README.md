@@ -1,2 +1,1 @@
-# dental-django
-# dental
+Basic Django site
